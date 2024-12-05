@@ -1,0 +1,7 @@
+# Ignore specific directories
+models/
+llama/
+
+#ignore pdf
+2022.lrec-Koeva_MultilingualImageCorpus.pdf
+
