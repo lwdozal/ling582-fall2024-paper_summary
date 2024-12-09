@@ -1,18 +1,9 @@
 Find the code in Llama3_2/llama3_summary.py
 
----
-title: "Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset"
-slug: "/lwdozal/paper-summary"
-date: 2024-11-02
-author: Laura W. Dozal
-description: "Paper summary of Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset"
-tags:
-  - paper summary
----
 
+### This project covers using Llama3.2 and Tiny Llama to summarize an academic paper in Natural Language Processing and/or Deep Learning.
 
 ## Citation
-
 Svetla Koeva, Ivelina Stoyanova, and Jordan Kralev. 2022. Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 1509–1518, Marseille, France. European Language Resources Association.
 
 
