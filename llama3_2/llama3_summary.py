@@ -16,7 +16,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import gradio as gr
 print("All libraries imported successfully!")
 
-hf_token = "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" #write
+hf_token = "your token here" #write
 
 # model_id = "meta-llama/Llama-3.2-3B-Instruct"
 # model_id = "PY007/TinyLlama-1.1B-Chat-v0.1"
